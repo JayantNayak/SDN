@@ -2,9 +2,10 @@ SDN
 ===
 
 This repository consists of the assignments I did in SDN course in coursera in summer fall of 2014.
-///////////////////////////////////////////////////////////////////////////////////////////////////////
+_____________________________________________________________________________________________________________
 
 Georgia Institute of Technology
+
 Software Defined Networking 
 how it is changing the way communications networks are managed, maintained, and secured.
 
@@ -14,7 +15,7 @@ Instructor :
 Nick Feamster
 Georgia Institute of Technology
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////
+_____________________________________________________________________________________________________________
 
 
 About the Course
