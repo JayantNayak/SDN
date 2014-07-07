@@ -12,7 +12,9 @@ how it is changing the way communications networks are managed, maintained, and 
 ---------------------------------------------------------------------------------------------------
 
 Instructor :
+
 Nick Feamster
+
 Georgia Institute of Technology
 
 _____________________________________________________________________________________________________________
